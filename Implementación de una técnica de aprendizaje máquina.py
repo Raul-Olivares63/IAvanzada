@@ -166,4 +166,4 @@ for ind, row in df_test.iterrows():
 ratios = pd.DataFrame(ratios, columns = ["Actual","Predicted"])
 
 #View the results
-print(ratios.head(10))
+print(ratios.head(100))
