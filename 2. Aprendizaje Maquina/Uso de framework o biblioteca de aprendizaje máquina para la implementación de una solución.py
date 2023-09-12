@@ -4,6 +4,7 @@ Autor:
 Descripción del código:
     El siguiente codigo presenta la implementación de la tecnica de arbol de decisión utilizando la libreria de sklearn, 
     prueba distintas configuraciones para posteriomente seleccionar la mejor e indicarsela al usuario.
+    
 '''
 
 #Importación de las librerias necesarias para la construccion del modelo y su evaluación
