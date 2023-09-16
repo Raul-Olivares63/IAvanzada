@@ -30,3 +30,4 @@ La materia se divide en varios módulos, cada uno cubriendo un aspecto important
 El repositorio contiene materiales relacionados con cada módulo, que incluyen:
 
 - **Código Fuente:** Código en Python relacionado con los conceptos y entregables cubiertos en los módulos.
+- **Portafolios y Entregables:** Código en Python y otros documentos de acuerdo a los distintos entregables para la matería.
