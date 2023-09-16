@@ -31,3 +31,10 @@ El repositorio contiene materiales relacionados con cada módulo, que incluyen:
 
 - **Código Fuente:** Código en Python relacionado con los conceptos y entregables cubiertos en los módulos.
 - **Portafolios y Entregables:** Código en Python y otros documentos de acuerdo a los distintos entregables para la matería.
+
+## Retroalimentación
+
+Los entregables contienen las modificaciones señaladas por los profesores de acuerdo a cada archivo, de forma muy general las modificaciones se agrupan en 3 aspectos:
+1. Creación y despliegue de gráficos que ayuden a validar y analizar el rendimiento de los modelos.
+2. Selección e incorporación de mmétricas adecuadas para cada modelo.
+3. Demostración de la generalización del modelo por medio de gráficos.
